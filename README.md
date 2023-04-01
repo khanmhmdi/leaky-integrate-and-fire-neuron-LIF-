@@ -1,4 +1,4 @@
-# leaky-integrate-and-fire-neuron-LIF
+# Leaky Integrate and Fire Neuron
 The LIF (Leaky Integrate-and-Fire) model is a simple mathematical model often used to describe the behavior of individual neurons in the brain. The model assumes that the neuron integrates incoming signals, and if the integrated signal reaches a certain threshold, the neuron "fires" and sends an output signal. Additionally, the model includes a leakage term that models the decay of the membrane potential over time.
 
 The equation for the LIF model can be written as:
