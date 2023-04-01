@@ -15,3 +15,10 @@ where:
 The equation states that the change in membrane potential over time (dV/dt) is proportional to the difference between the conductance of the neuron times the difference between the membrane potential and the resting potential, minus the input current. This equation can be solved numerically to simulate the behavior of a single neuron.
 
 When the membrane potential reaches a certain threshold, the neuron is assumed to "fire" and send an output signal. At this point, the membrane potential is reset to a lower value, and the neuron enters a brief refractory period during which it cannot fire again.
+
+# Results
+<div style="display:flex;">
+  <img src="https://github.com/khanmhmdi/leaky-integrate-and-fire-neuron-LIF-/blob/main/I(A).png" style="width:33.33%; margin-right: 5px;">
+  <img src="https://github.com/khanmhmdi/leaky-integrate-and-fire-neuron-LIF-/blob/main/Spikes.png" style="width:33.33%; margin-right: 10px;">
+  <img src="https://github.com/khanmhmdi/leaky-integrate-and-fire-neuron-LIF-/blob/main/V.png" style="width:33.33%;">
+</div>
